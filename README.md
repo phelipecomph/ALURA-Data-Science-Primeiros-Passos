@@ -1,4 +1,4 @@
-# Data Science Primeiros Passos
+# [ALURA]Data Science Primeiros Passos
 Neste repositorio registro o aprendizado com o curso da Alura (Data Science: Primeiros Passos). 
 https://cursos.alura.com.br/course/data-science-primeiros-passos
 
